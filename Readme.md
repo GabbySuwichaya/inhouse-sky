@@ -9,6 +9,7 @@ This repo we adopt the content of `PhyDNetGAN.ipynb` from https://github.com/yuh
     You should get something like this ...
     ```
     PhyDNetGAN/
+        Readme.md
         python files .... 
         demo/
         save/
